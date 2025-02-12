@@ -238,6 +238,7 @@ GEM
     net-http (0.6.0)
       uri
     nokogiri (1.18.2-arm64-darwin)
+      force_ruby_platform: true
       racc (~> 1.4)
     octokit (4.25.1)
       faraday (>= 1, < 3)
