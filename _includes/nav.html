@@ -7,17 +7,17 @@
         {% endif %}
 
         {% if site.blog == true %}
-            {% if page.title != "Blog" %}
+            {% if page.title != "Log" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/blog">Blog</a>
+                    <a class="link" href="{{ site.url }}/blog">Log</a>
                 </li>
             {% endif %}
         {% endif %}
 
-        {% if site.projects == true %}
-            {% if page.title != "Projects" %}
+        {% if site.work == true %}
+            {% if page.title != "Work" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Projects</a>
+                    <a class="link" href="{{ site.url }}/work">Work</a>
                 </li>
             {% endif %}
         {% endif %}
