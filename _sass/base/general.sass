@@ -4,7 +4,29 @@ body, html
 body
 	font: 16px $fontSans
 	color: $alpha
-	background: $omega
+	position: static
+	&::before
+		content: ""
+		position: fixed
+		top: 0
+		right: 0
+		bottom: 0
+		left: 0
+		z-index: -1
+		background-size: 300% 300%
+		height: 100vh
+		background-color: #080438
+		background-image: radial-gradient(at 97% 97%, rgb(10, 1, 39) 0, transparent 47%), radial-gradient(at 1% 86%, rgb(32, 30, 44) 0, transparent 42%), radial-gradient(at 63% 9%, rgb(2, 29, 40) 0, transparent 50%), radial-gradient(at 34% 44%, rgb(28, 27, 20) 0, transparent 44%), radial-gradient(at 92% 54%, rgb(18, 3, 15) 0, transparent 50%), radial-gradient(at 89% 15%, rgb(1, 21, 3) 0, transparent 50%), radial-gradient(at 1% 0%, rgb(39, 32, 40) 0, transparent 50%), radial-gradient(at 49% 78%, rgb(36, 13, 33) 0, transparent 50%)
+		animation: gradient 30s linear infinite
+
+
+@keyframes gradient 
+	0% 
+		background-position: 0% 0%
+	50%
+		background-position: 100% 100%
+	100% 
+		background-position: 0% 0%
 
 h1, h2, h3, h4
 	font-family: $fontSans
@@ -14,7 +36,6 @@ h1, h2, h3, h4
 
 h1
 	font-size: 3rem
-	letter-spacing: -1px
 	color: $beta
 	font-weight: 700
 
@@ -35,7 +56,7 @@ a
 p
 	line-height: 1.7
 	color: $alpha
-	font-weight: 300
+	font-weight: 400
 	margin-bottom: 20px
 	letter-spacing: 0.4px
 
@@ -139,3 +160,5 @@ pre
 
 .wrapper-large
 	max-width: 810px
+
+	

@@ -1,6 +1,6 @@
 .home,
 .blog,
-.projects
+.work
     margin-top: 125px
 
     > .list
@@ -9,23 +9,9 @@
         padding-top: 40px
         position: relative
 
-        &:before
-            display: block
-            content: " "
-            width: 7px
-            height: 7px
-            border: $epsilon 1px solid
-            position: absolute
-            top: -5px
-            left: 50%
-            margin-left: -5px
-            background: $omega
-            box-shadow: $omega 0 0 0 5px
-            border-radius: 3px
-
 .home > .list,
 .blog > .list,
-.projects > .list
+.work > .list
     > .item
         display: block
         width: 95%
@@ -63,7 +49,7 @@
         color: $alpha
 
 .blog > .list > .item > .url,
-.projects > .list > .item > .url
+.work > .list > .item > .url
     > .title
         display: inline
 
