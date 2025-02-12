@@ -11,6 +11,7 @@ category: work
 author: bernardo
 externalLink: false
 ---
+
 ### Product advisor
 ##### Working with CEO and product team
 ![Screenshot](/assets/images/work/work-1.png)
