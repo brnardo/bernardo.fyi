@@ -1,0 +1,36 @@
+---
+title: "DailyBot"
+layout: post
+date: 2022-01-25 11:10
+tag: work
+image: /assets/images/jekyll-logo-light-solid.png
+headerImage: false
+work: true
+description: "Work post."
+category: work
+author: bernardo
+externalLink: false
+---
+### Product advisor
+##### Working with CEO and product team
+![Screenshot](/assets/images/work/work-1.png)
+[dailybot.com](https://dailybot.com)
+
+DailyBot is a YC S21 company I worked with on two main fronts: auditing their current acquisition, activation and retention funnels and proposing a product strategy moving forward. While reviewing their funnel acquisition, activation and retention funnels, we analysed:
+
+- Listed main organic and paid acquisition channels, prioritising by impact and conversion in order to source for alternatives
+
+- Step by step conversion from sign up to active user to paid customer, identifying opportunities for improvement
+
+- The aha-moment and activation signals leading to a user converting to a paid customer
+
+![Screenshot](/assets/images/work/work-2.png)
+![Screenshot](/assets/images/work/work-3.png)
+
+Regarding product strategy the focus was on what would be next for DailyBot in order to widen their market now that product/market fit is clearer:
+
+- Evaluate market and competitors to benchmark value proposition
+
+- Propose two alternative strategies in how to deliver that proposition – horizontally to the longer tail on a platform play or vertical by going upstream on enterprise
+
+- Document and make a case for each of the scenarios with the respective arguments, product implications and outcomes deriving from both

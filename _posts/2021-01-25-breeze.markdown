@@ -1,0 +1,36 @@
+---
+title: "Breeze"
+layout: post
+date: 2021-01-25 11:10
+tag: work
+image: /assets/images/jekyll-logo-light-solid.png
+headerImage: false
+work: true
+description: "Work post."
+category: work
+author: bernardo
+externalLink: false
+---
+### Product advisor
+##### Working with founders and engineering team
+![Screenshot](/assets/images/work/work-7.png)
+[breezecal.com](https://breezecal.com)
+
+Breeze is an appointment scheduling digital tool I invested on with friends and helped on the product definition and launch. The challenge was taking an idea and a design for a minimalist solution to appointment scheduling to something a tech partner co-investing in the company could build upon. On the definition side of things the goal was:
+
+- Complementing design mockups with edge cases, feedback mechanisms, design system and guidelines
+
+- Documenting design specs with functional requirements for the tech partner’s development team
+
+- Coordinating development, quality assurance and design
+
+![Screenshot](/assets/images/work/work-8.png)
+![Screenshot](/assets/images/work/work-9.png)
+
+With a beta version ready in under two months the next challenge was launching the product for a first round of feedback from potential customers and everyone on our network knew used other scheduling apps, to then prepare a public launch:
+
+- QA and UI testing to continue squashing bugs and polishing beta version while demoing product to prospects and beta users
+
+- Complementing marketing site to clarify use cases and improve conversion based on early feedback
+
+- Document and prioritise improvements on next versions of the product while defining launch strategy

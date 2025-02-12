@@ -1,0 +1,36 @@
+---
+title: "Klisst"
+layout: post
+date: 2022-01-25 11:10
+tag: work
+image: /assets/images/jekyll-logo-light-solid.png
+headerImage: false
+work: true
+description: "Work post."
+category: work
+author: bernardo
+externalLink: false
+---
+### Product advisor
+##### Working with Founders, engineering, and design team
+![Screenshot](/assets/images/work/work-4.png)
+[klisst.com](https://klisst.com)
+
+Klisst is a social list making app from a venture studio in Madrid I worked with on setting up their in-house product team and strategy. On an initial discovery phase the founders and I went through a series of exercises to facilitate finding focus on what was important to build:
+
+- Filling in a business model canvas to clarify value proposition, target market, necessary resources to deliver on value proposition, potential revenue streams and distribution channels
+
+- Running a feature audit using a matrix of frequency of use vs quantity of users to contrast with a jobs to be done assumption from the leadership team
+
+- Drawing out an experience map of the entire system to complement event data tracking, prioritise future work and identify opportunities for improvement.
+
+![Screenshot](/assets/images/work/work-5.png)
+![Screenshot](/assets/images/work/work-6.png)
+
+With discovery done and with both leadership and the team aligned on what to build, the goal was to enable and empower the founders to lead product definition both operationally in the day to day but also on setting a strategy based on the discovery phase:
+
+- Setting up a playbook with the necessary steps and processes to deliver on an iterative product design and development cycle that can be run by the founders and their in-house product team.
+
+- Laying out a recurring release log and checklist to align teams and centralise the resources necessary to streamline app updates.
+
+- Implement weekly routines and checkpoints with clear agendas, action points and demos for design and product critique while mentoring founders to lead these sessions.

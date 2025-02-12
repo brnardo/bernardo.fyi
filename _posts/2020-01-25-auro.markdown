@@ -1,0 +1,28 @@
+---
+title: "Auro"
+layout: post
+date: 2020-01-25 11:10
+tag: work
+image: /assets/images/jekyll-logo-light-solid.png
+headerImage: false
+work: true
+description: "Work post."
+category: work
+author: bernardo
+externalLink: false
+---
+### Product advisor
+##### Working with founders and engineering team
+![Screenshot](/assets/images/work/work-10.png)
+[auro.travel](https://auro.travel)
+
+Auro is a consumer and business local mobility company in Spain I advised on designing and launching their ride hailing service. I was approached by one of the partners in the company to collaborate with the in-house tech and leadership teams in the design and definition of their brand and app. After launching the brand with one of Spain’s best studios we also collaborate with another of the local talents in product design to then build the product in-house:
+
+- Iterate and coordinate on design based on feedback from leadership and tech teams together with studio
+
+- Document and plan UI design implementation for iOS and Android in user stories to be developed by tech team, demoed to leadership and tested by employees with live fleet
+
+- Lead product development and testing process along with managing stakeholders in leadership and design to work on early feedback and tests
+
+![Screenshot](/assets/images/work/work-11.png)
+![Screenshot](/assets/images/work/work-12.png)
